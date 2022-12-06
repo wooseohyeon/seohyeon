@@ -2,7 +2,9 @@
 
 using namespace std;
 
-in main()
+int main()
 {
+	cout << "¾È³çÇÏ¼¼¿ä" << endl;
+		
 	return 0;
 }
